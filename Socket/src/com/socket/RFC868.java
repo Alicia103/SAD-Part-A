@@ -46,11 +46,11 @@ public class RFC868 {
 			    		try {
 			    			connection.close();
 			    			} catch (IOException e) {
-			    				// ignore;        
+			    				       
 			    				}      
 			    		}
 			    	return null;
 			    	}
 			    }  	 	
 }
-//Testbar indem man die Kommando-Zeile öffnet und "telnet localhost 13 eingibt"
+//Testbar indem man die Kommando-Zeile Ã¶ffnet und "telnet localhost 13 eingibt"
